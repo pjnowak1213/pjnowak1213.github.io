@@ -11,6 +11,11 @@
     "icon": "fa-comments"
   },
   {
+    "text": "Talks",
+    "url": "/talks/",
+    "icon": "fa-user"
+  },
+  {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
