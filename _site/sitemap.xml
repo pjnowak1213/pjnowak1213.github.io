@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Nowak</title>
+    <description>My Personal Blog</description>
+    <link>/</link>
+    <atom:link href="/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Mar 2017 20:08:55 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 20:08:55 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>How Your Team Will Be Impacted by Agile Transformation</title>
+        <description>&lt;h3&gt;The Start&lt;/h3&gt;
+
+&lt;p&gt;So you have your team selected and in place, and they are up and running within the first sprint.  The team is excited and enthusiastic to be working in a new environment.  However you slowly start to see the mode change on your team to being a little more resistant, this is normal.  If you look at the Satir change model, the introducing of Scrum is the “Foreign Element” and as you’re team progress they will go through the remainder of the stages.  By being aware of these stages and what to expect in each of them you will be able to guide your team through them.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/satir-change-model.png&quot; alt=&quot;my alternate text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Resistance&lt;/h3&gt;
+
+&lt;p&gt;During this stage the team will mostly likely reject the different parts of Scrum.  You might hear statements like:
+
+&lt;ul&gt;
+    &lt;li&gt;“Why are we having all of these meeting?”&lt;/li&gt;
+    &lt;li&gt;“The daily scrum is a waste of time.”&lt;/li&gt;
+&lt;/ul&gt;
+
+It is crucial that during this stage we adhere to the principle and framework that is laid out in the Scrum Guide.  The team does not yet have the foundation or fully understand all the whys to be able to effectively change Scrum. &lt;/p&gt;
+
+&lt;h3&gt;Chaos&lt;/h3&gt;
+
+&lt;p&gt;After resistance chaos will start it occur.  The loss of individual identity as the team starts to move towards cross functional individuals, might trigger emotions of vulnerability and bring out childlike behaviors.  You might hear statements like:
+
+&lt;ul&gt;
+&lt;li&gt;“I am unable to breakdown my work anymore and I know it will take 40 hours”&lt;/li&gt;
+&lt;li&gt;“Why can’t I just do it my way”&lt;/li&gt;
+&lt;li&gt;“I can’t help with that task, that is not my expertise”&lt;/li&gt;
+&lt;/ul&gt;
+These are all signs of self-preservation, and explain to your team that it is important to be transparent with our work.  Remind them that we value expertise and knowledge but it is important that we share knowledge amongst team members to better the team as a whole.  During this stage you should expect performance and velocity to drop and for PBI’s to not be completed in a sprint.  It is important for to try not to implement any kind of silver bullet solution to fix this, it will only drive the team farther apart.  Emotions and fear are usually high during this stage, it is important that you acknowledge that and help each team member confront their fear and emotions.  I have also seen teams turn into what can only be described as high school clicks, with very strong pair relationships and not strong team relationships.  Try to encourage pairing of different specialties and clicks to build strong relationships amongst other team members.
+&lt;/p&gt;
+
+&lt;h3&gt;Integration&lt;/h3&gt;
+&lt;p&gt;During this stage the team will start to form and roles will start to blend.  They will see the value of having a cross functional team and T-shaped people.   You should see a lot of pairing going on during this stage as they become more cross functional.  Roles on the team will start to blur and you the conversation will start change.  You should being hearing a lot of “we” type language.  There is not much to do at this stage other then let the team go and encourage them to continue their pairing and knowledge gathering.&lt;/p&gt;
+
+&lt;h3&gt;New Status Quo&lt;/h3&gt;
+&lt;p&gt;At this stage the team should have taken to Scrum and they should on a good path to becoming a high performing team.  During this stage it is important to continue to support and encourage the team.  Help them continue to learn and grow in different areas that they are interested in.  Also watch that the team does not fall back into a bad behaves from any of the earlier stages and if they do encourage and help them through it.&lt;/p&gt;
+
+&lt;h3&gt;In the End&lt;/h3&gt;
+&lt;p&gt;Each individual on the team is unique in their own way, and an approach that works with one might not work with another.  Keep trying different approaches until you find one that works for each individual.  And keep in mind what Peter Block said “People don’t resist change; they resist coercion”.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Mar 2016 00:00:00 -0600</pubDate>
+        <link>/transformation,/agile/2016/03/10/how-your-team-will-be-impacted-by-agile-transformation.html</link>
+        <guid isPermaLink="true">/transformation,/agile/2016/03/10/how-your-team-will-be-impacted-by-agile-transformation.html</guid>
+        
+        
+        <category>transformation,</category>
+        
+        <category>agile</category>
+        
+      </item>
+    
+      <item>
+        <title>We’re brand new to Scrum. Do you have any advice as we begin?</title>
+        <description>&lt;blockquote&gt;&lt;p&gt;“Anyone who has never made a mistake has never tried anything new.” ~Albert Einstein&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Understanding the concepts of scrum can be easy, however actually doing Scrum can be hard.  Like Albert Einstein said you are going to make mistakes along thimagese way, that is okay as long as you remember that Scrum is a journey.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/einstein.jpg&quot; alt=&quot;my alternate text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The most important piece of advice that I can give you is to understand the values and principals of Scrum, why we do do what we do.  This will help you when you communicate outside of the Scrum team especially to the business.&lt;/p&gt;
+
+&lt;p&gt;Don’t focus to much on the “How” or the architecture of the Product Backlog Items (P.B.I.) during refinement but the “Why” or the business value of the P.B.I.  Developers have a tendency to solution right away so this can be difficult.  Save the “How” for when you’re working on the P.B.I.&lt;/p&gt;
+
+&lt;p&gt;Don’t let your Daily Scrum meetings turn into a status report with each team member reporting to usually the Scrum Master or the Product Owner if he or she attends. The Daily Scrum meeting should be for the Development team to come up with a plan for the next day.&lt;/p&gt;
+
+&lt;p&gt;Have a clear Definition of Done (D.O.D.), and adhere to it.  A good D.O.D. will also limit the risk and conflict between the development team and the stake holders.  When your D.O.D. is lacking, quality will go down, and your stake holders will start to lose trust in the team.   You should inspect your D.O.D. at every retrospective and refine it as needed.&lt;/p&gt;
+
+&lt;p&gt;Focus on done P.B.I.s during the Sprint Review.  I see a lot of new teams demoing undone work, or work that does not meet there D.O.D., this has risk involved, as the Stake Holders might interpret it as a shippable product.  Don’t hesitate however to speak towards your undone work, just don’t demo it.&lt;/p&gt;
+
+&lt;p&gt;Pick one action item to improve upon during your Sprint Retrospective.  The Sprint Retrospective is used to inspect your teams process and try to improve upon it.  I have seen teams loose focus and not improve at all if they have more then one action item to improve upon.&lt;/p&gt;
+
+&lt;p&gt;Hopefully these pieces of advice and some mistakes that I have made along the way will help you and your team.  If you have any advice or other mistakes that either you or your team has made please share it with us, we could all benefit from it, and hopefully not make the same mistake.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 00:00:00 -0600</pubDate>
+        <link>/transformation,/agile/2016/03/04/were-brand-new-to-scrum.html</link>
+        <guid isPermaLink="true">/transformation,/agile/2016/03/04/were-brand-new-to-scrum.html</guid>
+        
+        
+        <category>transformation,</category>
+        
+        <category>agile</category>
+        
+      </item>
+    
+      <item>
+        <title>Done, Done</title>
+        <description>&lt;p&gt;Have you ever heard “Done but not tested”, or “It is 80% done” for the past 3 weeks?  How did that make you feel?  If you are the individual asking you probably lost some trust amongst the team.  And if you are the individual that was asked, you probably feel some frustration as you might not have a good idea as to what done is.  So what does it mean to be done?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/checkbox.jpg&quot; alt=&quot;my alternate text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We all have a different meaning of what done and quality means, on top of that it could vary greatly based on industry and application.  For instance, a website quality might mean it is visually appealing and meets user experience guidelines, where an internal application that is used by a handful of users might not have as strict of a guideline on the user interface.  However, quality is defined for your product it has to be consistent.  We can do this by creating a Definition of Done (DoD).  The DoD is a contract of what quality means between the Scrum Team and the business.&lt;/p&gt;
+
+&lt;p&gt;When first creating a DoD for your product there are a couple of rules you should follow:
+
+&lt;ul&gt;
+&lt;li&gt;Binary done or not done&lt;/li&gt;
+&lt;li&gt;Detailed (Unit Tested instead of Tested)&lt;/li&gt;
+&lt;li&gt;Quantified (80% Unit Tested)&lt;/li&gt;
+&lt;li&gt;As detailed as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Your definition of done for a new team should start off small, and as the product grows your DoD should get more detailed and defined as well.  For example, for a new product you might only have a few items on your DoD.&lt;/p&gt;
+
+&lt;p&gt;
+Example 1:
+
+&lt;ul&gt;
+&lt;li&gt;Code is 80% Unit tested&lt;/li&gt;
+&lt;li&gt;Meets all acceptance criteria&lt;/li&gt;
+&lt;li&gt;Product Owner has reviewed it&lt;/li&gt;
+&lt;li&gt;At the end of every sprint during the retrospective you should be reviewing your DoD and if needed modifying or adding to it.  Over time that same DoD &lt;/li&gt;&lt;li&gt;might look something like this:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Example 2:
+
+&lt;ul&gt;
+&lt;li&gt;Code is 90% Unit tested&lt;/li&gt;
+&lt;li&gt;Meets all acceptance criteria&lt;/li&gt;
+&lt;li&gt;Product Owner has reviewed it&lt;/li&gt;
+&lt;li&gt;All web pages’ load in under 3 seconds&lt;/li&gt;
+&lt;li&gt;Web pages adhere to the Design Guide&lt;/li&gt;
+&lt;li&gt;Functional tests are automated&lt;/li&gt;
+&lt;li&gt;Deployed to the UAT environment&lt;/li&gt;
+&lt;li&gt;Tested in the latest versions of Firefox, Chrome and Internet Explore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Watch out for too many items on your DoD, if you have say 50 items on there the chances of having the team go through each and making sure that they have meet them goes down.  Also watch out for the team arguing over the same item on the DoD every time, chances are it is not defined enough.&lt;/p&gt;
+
+&lt;p&gt;Now that we have a Definition of Done and we have defined what quality means for our product we can move away from answers like “Done but not tested” or “Done,Done” to either “Done” or “Not Done”.   Doing so will once again build trust between the Development team and the Business. By having a common understanding of what quality is.  Plus this gives the business what they really wanted Done software.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 00:00:00 -0600</pubDate>
+        <link>/scrum/2016/01/08/done-done.html</link>
+        <guid isPermaLink="true">/scrum/2016/01/08/done-done.html</guid>
+        
+        
+        <category>scrum</category>
+        
+      </item>
+    
+  </channel>
+</rss>
