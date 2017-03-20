@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Professional Scrum Master I",
+		"image": "psm1.png",
+		"url": "https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment",
+		"date": "Nov 2013"
+    },
+	{
+		"name": "Professional Scrum Master II",
+		"image": "psm2.png",
+		"url": "https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-ii-assessment",
+		"date": "May 2015"
+	},
+	{
+		"name": "Professional Scrum Master III",
+		"image": "psm3.png",
+		"url": "https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-iii-assessment",
+		"date": "May 2016"
+	},
+	{
+		"name": "Professional Scrum Developer",
+		"image": "psd1.png",
+        "url": "https://www.scrum.org/professional-scrum-certifications/professional-scrum-developer-assessment",
+		"date": "Feb 2014"
+	},
+	{
+		"name": "SAFe Program Consultant 4.0",
+		"image": "spc4.jpg",
+        "url": "http://www.scaledagileframework.com/",
+		"date": "Jun 2016"
+	}
+]

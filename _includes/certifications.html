@@ -1,0 +1,18 @@
+<h2>Certifications</h2>
+
+{% for i in site.data.certifications %}
+
+<div class="row certifications">
+     <div class="col-md-1">
+         <a href="{{ i.url }}" target="blank"> 
+            <image src="/static/certifications/{{ i.image }}" class="certification-img" />
+        </a>
+     </div>
+     <div class="col-md-8 col-md-offset-1">
+         <a href="{{ i.url }}" target="blank"> 
+            <h4>{{ i.name }}</h4>
+        </a>
+     </div>    
+</div>
+
+{% endfor %}
