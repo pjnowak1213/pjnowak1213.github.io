@@ -11,6 +11,11 @@
     "icon": "fa-comments"
   },
   {
+    "text": "Resume",
+    "url": "/resume/",
+    "icon": "fa-university"
+  },
+  {
     "text": "Talks",
     "url": "/talks/",
     "icon": "fa-user"

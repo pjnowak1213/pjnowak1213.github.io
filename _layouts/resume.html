@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="resume-content well">
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+
+    <h2>Work Experience</h2>
+    {% assign items = site.data.workexpereience | sort: 'startDate' %}
+    {% for i in items reversed %}
+    <div class="resume row">
+        <div class="col-xs-12 col-md-12" > 
+            <h3><a href="{{ i.companyUrl }}" target="_blank"> {{ i.company }} </a></h3>
+            <h4>{{ i.title }}</h4>
+            <h5>{{ i.startDate | date: "%b %Y" }} - {{ i.endDate | date: "%b %Y" }}</h5>
+            <p>{{ i.description }}</p>
+            <p>            
+                {% for tag in i.tags %}
+                    <span class="label tag-cloud" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+                {% endfor %}
+            </p>
+        </div>
+    </div>
+    {% endfor %}
+    
+    {% include certifications.html %}
+</div>
