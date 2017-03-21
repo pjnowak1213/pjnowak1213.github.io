@@ -36,7 +36,7 @@
 		"image": "placeholder.jpg",		
 		"startDate": "2015-12-01",
         "endDate": "2016-05-01",
-        "description": "Peter helped build the Continuous Delivery and Integration pipeline at Northwestern Mutual.  Helped Northwestern Mutual envision and engineer a pipeline that would support their wide variety of technologies. Part of this involved special customization to support the compliance needs of the organization, as well as the massive number of products.",
+        "description": "I helped build the Continuous Delivery and Integration pipeline at Northwestern Mutual.  Helped Northwestern Mutual envision and engineer a pipeline that would support their wide variety of technologies. Part of this involved special customization to support the compliance needs of the organization, as well as the massive number of products.",
 		"tags": ["IBM UrbanCode","Team Foundation Server", "TeamCity"]
 	},
     {
@@ -46,7 +46,7 @@
 		"image": "placeholder.jpg",		
 		"startDate": "2015-10-01",
         "endDate": "2016-04-01",
-        "description": "Coached and trained them in Kanban and Scrum to help them streamline there development process and visualize there work",
+        "description": "I coached and trained them in Kanban and Scrum to help them streamline there development process and visualize there work",
 		"tags": ["Kanban","Coach", "Trainer", "Scrum"]
 	},
     {
@@ -56,7 +56,7 @@
 		"image": "placeholder.jpg",		
 		"startDate": "2014-03-01",
         "endDate": "2014-09-01",
-        "description": "While at Direct Supply, Peter worked on developing an ecommerce solution.  His focus on this project was new feature development, mentoring team members, developing new ideas to outside the team, and modifying existing development practices to better suit the needs of the company.  Peter was instrumental in ensuring team members were using test driven development, continuous integration, and continuous delivery practices.",
+        "description": "While at Direct Supply, I worked on developing an ecommerce solution.  My focus on this project was new feature development, mentoring team members, developing new ideas to outside the team, and modifying existing development practices to better suit the needs of the company.  I was instrumental in ensuring team members were using test driven development, continuous integration, and continuous delivery practices.",
 		"tags": ["AngularJS", "ASP.NET MVC", "C#", "CoffeeScript", "CSS", "Entity Framework", "HTML", "JavaScript", "jQuery", "Microsoft SQL Server", "Microsoft Visual Studio 2012", "Selenium Browser Automation", "Team Foundation Server", "Unity"]
 	},
     {
@@ -66,7 +66,7 @@
 		"image": "placeholder.jpg",		
 		"startDate": "2015-01-01",
         "endDate": "2015-03-01",
-        "description": "Helped coach and build a Continuous Delivery and Integration pipeline.  Worked with both the developers and they network administrators at KeHE so that they could support the pipeline.  Trained the developers in modern development techniques that complement being in a Continues Delivery pipeline.",
+        "description": "I helped coach and build a Continuous Delivery and Integration pipeline.  Worked with both the developers and they network administrators at KeHE so that they could support the pipeline.  Trained the developers in modern development techniques that complement being in a Continues Delivery pipeline.",
 		"tags": ["Octopus Deploy", "Proget Server", "Team Foundation Server 2015"]
 	},
     {
@@ -86,7 +86,7 @@
 		"image": "placeholder.jpg",		
 		"startDate": "2014-01-01",
         "endDate": "2014-03-01",
-        "description": "While working with Henry Schein, Peter was focused on a web application for sharing products through social media.  Along with the development of the product he was also responsible for gathering and understanding requirements and working with the client to prioritize the work.  Peter also helped the client with implementing a continuous integration solution to better suit their needs.",
+        "description": "While working with Henry Schein, I was focused on a web application for sharing products through social media.  Along with the development of the product I was also responsible for gathering and understanding requirements and working with the client to prioritize the work.  I also helped the client with implementing a continuous integration solution to better suit their needs.",
 		"tags": ["ASP.NET", "ASP.NET MVC", "C#", "CSS", "Entity Framework", "JavaScript", "jQuery", "Microsoft SQL Server"]
 	},
     {
@@ -106,7 +106,7 @@
 		"image": "placeholder.jpg",		
 		"startDate": "2012-01-01",
         "endDate": "2013-09-01",
-        "description": "While at Badger Meter, Peter worked on a web application that was used to collect and manage meter information.  The usage information from meters was feed into a billing system and invoices were generated for customers.  Additionally, the meter usage information was used to generate reports that showed consumption data and trends.  While on this project, Peter acted in a dual role of Team Lead and Architect.  Peter was responsible for working through requirements and ensuring that the development team had a clear understanding and implemented the feature correctly.  Peter also helped the team move to adoption of the Scrum framework with the goal of developing a better product for the client, business stakeholders, and engagement of the development team.",
+        "description": "While at Badger Meter, I worked on a web application that was used to collect and manage meter information.  The usage information from meters was feed into a billing system and invoices were generated for customers.  Additionally, the meter usage information was used to generate reports that showed consumption data and trends.  While on this project, I acted in a dual role of Team Lead and Architect.  I was responsible for working through requirements and ensuring that the development team had a clear understanding and implemented the feature correctly.  I also helped the team move to adoption of the Scrum framework with the goal of developing a better product for the client, business stakeholders, and engagement of the development team.",
 		"tags": ["ASP.NET", "ASP.NET MVC", "C#", "CSS", "HTML", "JavaScript", "jQuery", "Microsoft SQL Server", "NHibernate", "StructureMap", "Team Foundation Server", "WCF", "WPF", "XAML"]
 	}
 ]
