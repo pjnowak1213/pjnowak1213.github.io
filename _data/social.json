@@ -6,5 +6,9 @@
   {
     "icon": "fa-linkedin",
     "link": "https://www.linkedin.com/in/nowakpeter/"
-  }  
+  },
+   {
+    "icon": "fa-github",
+    "link": "https://github.com/pjnowak1213"
+  }    
 ]

@@ -207,3 +207,8 @@ a, a:focus, a:hover{
 {
     height: 60px;    
 }
+
+.resume-content h2
+{
+    border-bottom: thin solid #444444;
+}
