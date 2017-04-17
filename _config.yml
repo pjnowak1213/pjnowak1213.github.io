@@ -3,7 +3,7 @@ description: My Personal Blog
 author: Peter Nowak
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/pjnowak1213
-about: Agile Coach
+about: Agile Coach, Trainer, DevOps
 
 disqus_shortname: pjnowak1213
 google_analytics: UA-72862926-1
@@ -18,6 +18,6 @@ tagarray: []
 
 paginate: 20
 per_page: 20
-paginate_path: "/page:num/"
+paginate_path: "/blog/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]

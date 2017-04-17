@@ -7,10 +7,11 @@
 .full{ font-size: 16px; }
 
 .logo-img {
-    width: 56px;
-    height: 56px;
-    border-radius: 60px;
+    width: 76px;
+    height: 76px;
+    border-radius: 80px;
     margin: 0 auto;
+    background: #EEE;
 }
 .logo-turner {
     font-size: 18px;
@@ -115,6 +116,18 @@ h2.blog-title-pro:after {
     margin-left: 3px;
     background: #d65420;
 }
+
+h2.blog-title{color: #d65420;}
+h2.blog-title:after {
+    content: "";
+    display: block;
+    width: 200px;
+    height: 4px;
+    margin-top: 16px;
+    margin-left: 3px;
+    background: #d65420;
+}
+
 span.tags{ margin: 0 2px;cursor: pointer;display: inline-block;}
 .card .card-image .card-image-headline-custom{
     position: absolute;
