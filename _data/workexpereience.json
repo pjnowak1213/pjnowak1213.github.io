@@ -1,112 +1,252 @@
 [
 	{
 		"company": "Centare",
-        "companyUrl": "http://www.centare.com",
-        "title": "Senior Agile Coach",
-		"image": "placeholder.jpg",		
+		"companyUrl": "http://www.centare.com",
+		"title": "Senior Agile Coach",
+		"image": "placeholder.jpg",
 		"startDate": "2013-09-01",
-        "endDate": "Present",
-        "description": "My work at Centare has led me to many different roles and responsibilities from conducting agile training courses for both internal and external clients, improving courseware, designing new courseware, public speaking, facilitating meetings, and mentoring new coaches and trainers. Training courses that I have taught include the Centare Scrum Team Bootcamp, Centare Scrum Essentials, as well as many workshops around specific areas or custom built to solve a client's most pressing need.",
-		"tags": ["Agile","Coach", "Trainer", "Scrum", "Kanban"]
+		"endDate": "Present",
+		"description": "My work at Centare has led me to many different roles and responsibilities from conducting agile training courses for both internal and external clients, improving courseware, designing new courseware, public speaking, facilitating meetings, and mentoring new coaches and trainers. Training courses that I have taught include the Centare Scrum Team Bootcamp, Centare Scrum Essentials, as well as many workshops around specific areas or custom built to solve a client's most pressing need.",
+		"tags": [
+			"Agile",
+			"Coach",
+			"Trainer",
+			"Scrum",
+			"Kanban"
+		],
+		"projects": [
+			{
+				"company": "Trisept Solutions",
+				"companyUrl": "http://www.triseptsolutions.com/",
+				"title": "Agile Coach",
+				"image": "placeholder.jpg",
+				"startDate": "2016-12-01",
+				"endDate": "2017-01-01",
+				"description": "Trispet Solutions was undergoing an agile transformation and culture shift in order to deliver products to the market earlier and increase quality. As a coach in this organization I helped them see the value of delivering sooner. I also guided them in ways to shift towards newer technologies that would allow them to continue to deliver value and avoid the need to completely stop to do a rewrite.",
+				"tags": [
+					"Agile",
+					"Coaching",
+					"Scrum"
+				]
+			},
+			{
+				"company": "Northwestern Mutual",
+				"companyUrl": "https://www.northwesternmutual.com/",
+				"title": "Dojo Sensei",
+				"image": "placeholder.jpg",
+				"startDate": "2016-04-01",
+				"endDate": "2016-10-01",
+				"description": "I helped facilitate an intensive instruction and coaching session called a Dojo. Teams would enter in groups and spend two weeks immersed in a space reserved for learning and experimentation, while honing their agility skills and addressing problems specific to their technology and their place in the company. As Sensei, I guided them through this process of self-discovery, and suggested technological suggestions.",
+				"tags": [
+					"Agile",
+					"Coach",
+					"Scrum",
+					"Trainer"
+				]
+			},
+			{
+				"company": "Husco International Inc.",
+				"companyUrl": "http://www.huscointl.com",
+				"title": "Agile Coach",
+				"image": "placeholder.jpg",
+				"startDate": "2016-02-01",
+				"endDate": "2016-06-01",
+				"description": "Coached and trained Husco's IT Department in visual there work through Kanban, stream lined there work intake process, and coached them through a continuous improvement mindset.",
+				"tags": [
+					"Agile",
+					"Coach",
+					"Trainer",
+					"Kanban"
+				]
+			},
+			{
+				"company": "Northwestern Mutual",
+				"companyUrl": "https://www.northwesternmutual.com/",
+				"title": "DevOps Consultent",
+				"image": "placeholder.jpg",
+				"startDate": "2015-12-01",
+				"endDate": "2016-05-01",
+				"description": "I helped build the Continuous Delivery and Integration pipeline at Northwestern Mutual.  Helped Northwestern Mutual envision and engineer a pipeline that would support their wide variety of technologies. Part of this involved special customization to support the compliance needs of the organization, as well as the massive number of products.",
+				"tags": [
+					"IBM UrbanCode",
+					"Team Foundation Server",
+					"TeamCity"
+				]
+			},
+			{
+				"company": "Lansare Corporation",
+				"companyUrl": "http://www.lansare.com/",
+				"title": "Agile Coach",
+				"image": "placeholder.jpg",
+				"startDate": "2015-10-01",
+				"endDate": "2016-04-01",
+				"description": "I coached and trained them in Kanban and Scrum to help them streamline there development process and visualize there work",
+				"tags": [
+					"Kanban",
+					"Coach",
+					"Trainer",
+					"Scrum"
+				]
+			},
+			{
+				"company": "KeHE Distributors, LLC",
+				"companyUrl": "http://www.kehe.com/",
+				"title": "DevOps Consultent",
+				"image": "placeholder.jpg",
+				"startDate": "2015-01-01",
+				"endDate": "2015-03-01",
+				"description": "I helped coach and build a Continuous Delivery and Integration pipeline.  Worked with both the developers and they network administrators at KeHE so that they could support the pipeline.  Trained the developers in modern development techniques that complement being in a Continues Delivery pipeline.",
+				"tags": [
+					"Octopus Deploy",
+					"Proget Server",
+					"Team Foundation Server 2015"
+				]
+			},
+			{
+				"company": "Northwestern Mutual",
+				"companyUrl": "https://www.northwesternmutual.com/",
+				"title": "Agile Coach",
+				"image": "placeholder.jpg",
+				"startDate": "2014-08-01",
+				"endDate": "2016-12-01",
+				"description": "I have helped and continue to help Northwestern Mutual through this process through teaching multiple different training courses surrounding agility and coaching teams, individuals, and their stakeholders through the changes that agility brings to the table. Through this agile coaching role, I have acted as a mentor, coach, trainer and a facilitator in order to demonstrate, educate, and help those I have been coaching take ownership of their work.",
+				"tags": [
+					"Coaching",
+					"Agile",
+					"Scrum",
+					"Kanban",
+					"SAFe"
+				]
+			}
+		]
 	},
 	{
-		"company": "Trisept Solutions",
-        "companyUrl": "http://www.triseptsolutions.com/",
-        "title": "Agile Coach",
-		"image": "placeholder.jpg",		
-		"startDate": "2016-12-01",
-        "endDate": "2017-01-01",
-        "description": "Trispet Solutions was undergoing an agile transformation and culture shift in order to deliver products to the market earlier and increase quality. As a coach in this organization I helped them see the value of delivering sooner. I also guided them in ways to shift towards newer technologies that would allow them to continue to deliver value and avoid the need to completely stop to do a rewrite.",
-		"tags": ["Agile","Coaching", "Scrum"]
+		"company": "Centare",
+		"companyUrl": "http://www.centare.com",
+		"title": "Senior Software Consultant",
+		"image": "placeholder.jpg",
+		"startDate": "2013-09-01",
+		"endDate": "2014-09-01",
+		"description": "I worked as a software developer helping orginizations build custom solutions.",
+		"tags": [
+			"Agile",
+			"Coach",
+			"Trainer",
+			"Scrum",
+			"Kanban"
+		],
+		"projects": [
+			{
+				"company": "Direct Supply",
+				"companyUrl": "http://www.directsupply.com/",
+				"title": "Senior Software Develope",
+				"image": "placeholder.jpg",
+				"startDate": "2014-03-01",
+				"endDate": "2014-09-01",
+				"description": "While at Direct Supply, I worked on developing an ecommerce solution.  My focus on this project was new feature development, mentoring team members, developing new ideas to outside the team, and modifying existing development practices to better suit the needs of the company.  I was instrumental in ensuring team members were using test driven development, continuous integration, and continuous delivery practices.",
+				"tags": [
+					"AngularJS",
+					"ASP.NET MVC",
+					"C#",
+					"CoffeeScript",
+					"CSS",
+					"Entity Framework",
+					"HTML",
+					"JavaScript",
+					"jQuery",
+					"Microsoft SQL Server",
+					"Microsoft Visual Studio 2012",
+					"Selenium Browser Automation",
+					"Team Foundation Server",
+					"Unity"
+				]
+			},
+			{
+				"company": "Henry Schein",
+				"companyUrl": "https://www.henryschein.com/",
+				"title": "Senior Software Developer",
+				"image": "placeholder.jpg",
+				"startDate": "2014-01-01",
+				"endDate": "2014-03-01",
+				"description": "While working with Henry Schein, I was focused on a web application for sharing products through social media.  Along with the development of the product I was also responsible for gathering and understanding requirements and working with the client to prioritize the work.  I also helped the client with implementing a continuous integration solution to better suit their needs.",
+				"tags": [
+					"ASP.NET",
+					"ASP.NET MVC",
+					"C#",
+					"CSS",
+					"Entity Framework",
+					"JavaScript",
+					"jQuery",
+					"Microsoft SQL Server"
+				]
+			}
+		]
 	},
 	{
-		"company": "Northwestern Mutual",
-        "companyUrl": "https://www.northwesternmutual.com/",
-        "title": "Dojo Sensei",
-		"image": "placeholder.jpg",		
-		"startDate": "2016-04-01",
-        "endDate": "2016-10-01",
-        "description": "I helped facilitate an intensive instruction and coaching session called a Dojo. Teams would enter in groups and spend two weeks immersed in a space reserved for learning and experimentation, while honing their agility skills and addressing problems specific to their technology and their place in the company. As Sensei, I guided them through this process of self-discovery, and suggested technological suggestions.",
-		"tags": ["Agile","Coach", "Scrum", "Trainer"]
-	},
-	{
-		"company": "Husco International Inc.",
-        "companyUrl": "http://www.huscointl.com",
-        "title": "Agile Coach",
-		"image": "placeholder.jpg",		
-		"startDate": "2016-02-01",
-        "endDate": "2016-06-01",
-        "description": "Coached and trained Husco's IT Department in visual there work through Kanban, stream lined there work intake process, and coached them through a continuous improvement mindset.",
-		"tags": ["Agile","Coach", "Trainer", "Kanban"]
-	},
-	{
-		"company": "Northwestern Mutual",
-        "companyUrl": "https://www.northwesternmutual.com/",
-        "title": "DevOps Consultent",
-		"image": "placeholder.jpg",		
-		"startDate": "2015-12-01",
-        "endDate": "2016-05-01",
-        "description": "I helped build the Continuous Delivery and Integration pipeline at Northwestern Mutual.  Helped Northwestern Mutual envision and engineer a pipeline that would support their wide variety of technologies. Part of this involved special customization to support the compliance needs of the organization, as well as the massive number of products.",
-		"tags": ["IBM UrbanCode","Team Foundation Server", "TeamCity"]
-	},
-    {
-		"company": "Lansare Corporation",
-        "companyUrl": "http://www.lansare.com/",
-        "title": "Agile Coach",
-		"image": "placeholder.jpg",		
-		"startDate": "2015-10-01",
-        "endDate": "2016-04-01",
-        "description": "I coached and trained them in Kanban and Scrum to help them streamline there development process and visualize there work",
-		"tags": ["Kanban","Coach", "Trainer", "Scrum"]
-	},
-    {
-		"company": "Direct Supply",
-        "companyUrl": "http://www.directsupply.com/",
-        "title": "Senior Software Develope",
-		"image": "placeholder.jpg",		
-		"startDate": "2014-03-01",
-        "endDate": "2014-09-01",
-        "description": "While at Direct Supply, I worked on developing an ecommerce solution.  My focus on this project was new feature development, mentoring team members, developing new ideas to outside the team, and modifying existing development practices to better suit the needs of the company.  I was instrumental in ensuring team members were using test driven development, continuous integration, and continuous delivery practices.",
-		"tags": ["AngularJS", "ASP.NET MVC", "C#", "CoffeeScript", "CSS", "Entity Framework", "HTML", "JavaScript", "jQuery", "Microsoft SQL Server", "Microsoft Visual Studio 2012", "Selenium Browser Automation", "Team Foundation Server", "Unity"]
-	},
-    {
-		"company": "KeHE Distributors, LLC",
-        "companyUrl": "http://www.kehe.com/",
-        "title": "DevOps Consultent",
-		"image": "placeholder.jpg",		
-		"startDate": "2015-01-01",
-        "endDate": "2015-03-01",
-        "description": "I helped coach and build a Continuous Delivery and Integration pipeline.  Worked with both the developers and they network administrators at KeHE so that they could support the pipeline.  Trained the developers in modern development techniques that complement being in a Continues Delivery pipeline.",
-		"tags": ["Octopus Deploy", "Proget Server", "Team Foundation Server 2015"]
-	},
-    {
-		"company": "Northwestern Mutual",
-        "companyUrl": "https://www.northwesternmutual.com/",
-        "title": "Agile Coach",
-		"image": "placeholder.jpg",		
-		"startDate": "2014-08-01",
-        "endDate": "2016-12-01",
-        "description": "I have helped and continue to help Northwestern Mutual through this process through teaching multiple different training courses surrounding agility and coaching teams, individuals, and their stakeholders through the changes that agility brings to the table. Through this agile coaching role, I have acted as a mentor, coach, trainer and a facilitator in order to demonstrate, educate, and help those I have been coaching take ownership of their work.",
-		"tags": ["Coaching","Agile", "Scrum", "Kanban", "SAFe"]
-	},
-    {
-		"company": "Henry Schein",
-        "companyUrl": "https://www.henryschein.com/",
-        "title": "Senior Software Developer",
-		"image": "placeholder.jpg",		
-		"startDate": "2014-01-01",
-        "endDate": "2014-03-01",
-        "description": "While working with Henry Schein, I was focused on a web application for sharing products through social media.  Along with the development of the product I was also responsible for gathering and understanding requirements and working with the client to prioritize the work.  I also helped the client with implementing a continuous integration solution to better suit their needs.",
-		"tags": ["ASP.NET", "ASP.NET MVC", "C#", "CSS", "Entity Framework", "JavaScript", "jQuery", "Microsoft SQL Server"]
-	},    
-    {
-		"company": "Badger Meter, Inc.",
-        "companyUrl": "https://www.badgermeter.com/",
-        "title": "Senior Software Developer & Team Lead",
-		"image": "placeholder.jpg",		
+		"company": "Cornerstone Consulting, Inc.",
+		"companyUrl": "https://netrixllc.com/blog/just-announced-cornerstone-consulting-to-join-netr",
+		"title": "Senior Software Developer & Team Lead",
+		"image": "placeholder.jpg",
 		"startDate": "2012-01-01",
-        "endDate": "2013-09-01",
-        "description": "While at Badger Meter, I worked on a web application that was used to collect and manage meter information.  The usage information from meters was feed into a billing system and invoices were generated for customers.  Additionally, the meter usage information was used to generate reports that showed consumption data and trends.  While on this project, I acted in a dual role of Team Lead and Architect.  I was responsible for working through requirements and ensuring that the development team had a clear understanding and implemented the feature correctly.  I also helped the team move to adoption of the Scrum framework with the goal of developing a better product for the client, business stakeholders, and engagement of the development team.",
-		"tags": ["ASP.NET", "ASP.NET MVC", "C#", "CSS", "HTML", "JavaScript", "jQuery", "Microsoft SQL Server", "NHibernate", "StructureMap", "Team Foundation Server", "WCF", "WPF", "XAML"]
+		"endDate": "2013-09-01",
+		"description": "While at Cornerstone I worked as a Software Develover and TEam Lead. I mentored individuals on the team in S.O.L.D. principles and modern development practice. I helped architect solutions for customers as well.",
+		"tags": [
+			"ASP.NET",
+			"ASP.NET MVC",
+			"C#",
+			"CSS",
+			"HTML",
+			"JavaScript",
+			"jQuery",
+			"Microsoft SQL Server",
+			"NHibernate",
+			"StructureMap",
+			"Team Foundation Server",
+			"WCF",
+			"WPF",
+			"XAML"
+		],
+		"projects": [
+			{
+				"company": "Denta Quest",
+				"companyUrl": "http://www.dentaquest.com/",
+				"title": "Senior Software Developer",
+				"image": "placeholder.jpg",
+				"startDate": "2011-01-01",
+				"endDate": "2011-12-01",
+				"description": "While at DentaQuest, I worked on a service that took in EDI documents in XML format and transfored them in to objects that where then passed into another service.",
+				"tags": [
+					"C#",
+					"Team Foundation Server",
+					"WCF",
+					"Entity Framework"
+				]
+			},
+			{
+				"company": "Badger Meter, Inc.",
+				"companyUrl": "https://www.badgermeter.com/",
+				"title": "Senior Software Developer & Team Lead",
+				"image": "placeholder.jpg",
+				"startDate": "2012-01-01",
+				"endDate": "2013-09-01",
+				"description": "While at Badger Meter, I worked on a web application that was used to collect and manage meter information.  The usage information from meters was feed into a billing system and invoices were generated for customers.  Additionally, the meter usage information was used to generate reports that showed consumption data and trends.  While on this project, I acted in a dual role of Team Lead and Architect.  I was responsible for working through requirements and ensuring that the development team had a clear understanding and implemented the feature correctly.  I also helped the team move to adoption of the Scrum framework with the goal of developing a better product for the client, business stakeholders, and engagement of the development team.",
+				"tags": [
+					"ASP.NET",
+					"ASP.NET MVC",
+					"C#",
+					"CSS",
+					"HTML",
+					"JavaScript",
+					"jQuery",
+					"Microsoft SQL Server",
+					"NHibernate",
+					"StructureMap",
+					"Team Foundation Server",
+					"WCF",
+					"WPF",
+					"XAML"
+				]
+			}
+		]
 	}
 ]

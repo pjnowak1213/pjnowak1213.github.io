@@ -9,7 +9,7 @@ layout: default
     </div>
 
     <div class="well">
-        <div class="row">
+         <div class="row">
             <div class="col-md-2">
                 <i class="fa fa-briefcase fa-4x" aria-hidden="true"></i>
             </div>
@@ -17,21 +17,38 @@ layout: default
                 <h2>Work Experience</h2>
             </div>
         </div>
-
+        
         {% assign items = site.data.workexpereience | sort: 'startDate' %} {% for i in items reversed %}
-        <div class="resume row">
+        <div class="row">
             <div class="col-md-10 col-md-offset-2">
                 <h3><a href="{{ i.companyUrl }}" target="_blank"> {{ i.company }} </a></h3>
-                <h4>{{ i.title }}</h4>
+                <h5>{{ i.title }}</h5>
                 <h5>{{ i.startDate | date: "%b %Y" }} - {{ i.endDate | date: "%b %Y" }}</h5>
                 <p>{{ i.description }}</p>
                 <p>
                     {% for tag in i.tags %}
                     <span class="label tag-cloud" data-tag="{{ tag | downcase }}">{{ tag }}</span> {% endfor %}
                 </p>
+                <hr />
+
+                {% assign projects = i.projects | sort: 'startDate' %} {% for p in projects reversed %}
+                <div class="row">
+                    <div class="col-md-9 col-md-offset-1">
+                        <h4><a href="{{ p.companyUrl }}" target="_blank"> {{ p.company }} </a></h4>
+                        <h5>{{ p.title }}</h5>
+                        <h5>{{ p.startDate | date: "%b %Y" }} - {{ p.endDate | date: "%b %Y" }}</h5>
+                        <p>{{ p.description }}</p>
+                        <p>
+                            {% for tag in p.tags %}
+                            <span class="label tag-cloud" data-tag="{{ tag | downcase }}">{{ tag }}</span> {% endfor %}
+                        </p>
+                        <hr />
+                    </div>
+                </div>
+                {% endfor %}
             </div>
         </div>
-        {% endfor %}
+         {% endfor %}
     </div>
 
     <div class="well">
@@ -43,7 +60,7 @@ layout: default
             </div>
         </div>
         {% for i in site.data.certifications %}
-        <div class="row certifications">            
+        <div class="row certifications">
             <div class="col-md-1 col-md-offset-2">
                 <a href="{{ i.url }}" target="blank">
                     <image src="/static/certifications/{{ i.image }}" class="certification-img" />
