@@ -3,14 +3,14 @@ layout: default
 title: Home 
 ---
 
-<div class="well">
 
-  {% for post in site.posts %}
+
+{% for post in site.posts %}
+  <div class="well">
     <article class="content">
       <h2 class="blog-title"> {{ post.title }} </h2>
       <div class="post">{{ post.content }}</div>
     </article>    
     <hr />
-  {% endfor %}
-
-</div>
+  </div>
+{% endfor %}
