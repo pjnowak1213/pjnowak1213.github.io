@@ -13,6 +13,7 @@ permalink: /about/
         </p>
 
         <p>
+            <h2>Certifications</h2>
             {% include certifications.html %}
         </p>
 

@@ -223,5 +223,11 @@ a, a:focus, a:hover{
 
 .resume-content h2
 {
-    border-bottom: thin solid #444444;
+    font-weight: bolder;
+}
+
+.resume-content i{
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 10px;
 }

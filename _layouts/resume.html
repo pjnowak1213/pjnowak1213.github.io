@@ -2,42 +2,88 @@
 layout: default
 ---
 
-<div class="resume-content well">
+<div class="resume-content">
 
-    <div class="post-content">
+    <div class="post-content well">
         {{ content }}
     </div>
 
-    <h2>Work Experience</h2>
-    {% assign items = site.data.workexpereience | sort: 'startDate' %} 
-    {% for i in items reversed %}
-    <div class="resume row">
-        <div class="col-xs-12 col-md-12">
-            <h3><a href="{{ i.companyUrl }}" target="_blank"> {{ i.company }} </a></h3>
-            <h4>{{ i.title }}</h4>
-            <h5>{{ i.startDate | date: "%b %Y" }} - {{ i.endDate | date: "%b %Y" }}</h5>
-            <p>{{ i.description }}</p>
-            <p>
-                {% for tag in i.tags %}
-                <span class="label tag-cloud" data-tag="{{ tag | downcase }}">{{ tag }}</span> {% endfor %}
-            </p>
+    <div class="well">
+        <div class="row">
+            <div class="col-md-2">
+                <i class="fa fa-briefcase fa-4x" aria-hidden="true"></i>
+            </div>
+            <div class="col-md-10">
+                <h2>Work Experience</h2>
+            </div>
         </div>
-    </div>
-    {% endfor %} {% include certifications.html %}
 
-    <h2> Education</h2>
-    <div class="resume row">
-        <div class="col-xs-12 col-md-12">
-            <a href="https://www.uwsp.edu" target="_blank"><h3>University of Wisconsin-Stevens Point</h3></a>
-            <h4>Bachelor of Science, Web Digital Media Development</h4>
-            <h5>Aug 2000 - May 2005</h5>
+        {% assign items = site.data.workexpereience | sort: 'startDate' %} {% for i in items reversed %}
+        <div class="resume row">
+            <div class="col-md-10 col-md-offset-2">
+                <h3><a href="{{ i.companyUrl }}" target="_blank"> {{ i.company }} </a></h3>
+                <h4>{{ i.title }}</h4>
+                <h5>{{ i.startDate | date: "%b %Y" }} - {{ i.endDate | date: "%b %Y" }}</h5>
+                <p>{{ i.description }}</p>
+                <p>
+                    {% for tag in i.tags %}
+                    <span class="label tag-cloud" data-tag="{{ tag | downcase }}">{{ tag }}</span> {% endfor %}
+                </p>
+            </div>
         </div>
+        {% endfor %}
     </div>
 
-    <div class="resume row">
-        <div class="col-xs-12 col-md-12">
-            <a href="http://www.nbexcellence.org/schools/eisenhower/" target="_blank"><h3>New Berlin Eisenhower High School</h3></a>
-            <h5>Aug 1996 - June 2000</h5>
+    <div class="well">
+        <div class="row">
+            <div class="col-md-2">
+                <i class="fa fa-certificate fa-4x" aria-hidden="true"></i></div>
+            <div class="col-md-10">
+                <h2>Certifications</h2>
+            </div>
+        </div>
+        {% for i in site.data.certifications %}
+        <div class="row certifications">            
+            <div class="col-md-1 col-md-offset-2">
+                <a href="{{ i.url }}" target="blank">
+                    <image src="/static/certifications/{{ i.image }}" class="certification-img" />
+                </a>
+            </div>
+            <div class="col-md-6 col-md-offset-1">
+                <a href="{{ i.url }}" target="blank">
+                    <h4>{{ i.name }}</h4>
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="well">
+        <div class="row">
+            <div class="col-md-2">
+                <i class="fa fa-graduation-cap fa-4x" aria-hidden="true"></i></div>
+            <div class="col-md-10">
+                <h2> Education</h2>
+            </div>
+        </div>
+
+        <div class="resume row">
+            <div class="col-md-10 col-md-offset-2">
+                <a href="https://www.uwsp.edu" target="_blank">
+                    <h3>University of Wisconsin-Stevens Point</h3>
+                </a>
+                <h4>Bachelor of Science, Web Digital Media Development</h4>
+                <h5>Aug 2000 - May 2005</h5>
+            </div>
+        </div>
+
+        <div class="resume row">
+            <div class="col-md-10 col-md-offset-2">
+                <a href="http://www.nbexcellence.org/schools/eisenhower/" target="_blank">
+                    <h3>New Berlin Eisenhower High School</h3>
+                </a>
+                <h5>Aug 1996 - June 2000</h5>
+            </div>
         </div>
     </div>
 </div>
