@@ -6,14 +6,15 @@
 		"image": "placeholder.jpg",
 		"startDate": "2014-09-01",
 		"endDate": "Present",
-		"description": "My work at Centare has led me to many different roles and responsibilities from conducting agile training courses for both internal and external clients, improving courseware, designing new courseware, public speaking, facilitating meetings, and mentoring new coaches and trainers. Training courses that I have taught include the Centare Scrum Team Bootcamp, Centare Scrum Essentials, as well as many workshops around specific areas or custom built to solve a client's most pressing need.",
+		"description": "My work at Centare has led me to many different roles and responsibilities from conducting agile training courses for both internal and external clients, improving courseware, designing new courseware, public speaking, facilitating meetings, and mentoring new coaches and trainers.   As an Agile coach I have helped organizations transform and implement Scrum and Kanban along with DevOps principles and practices.  Along with helping clients, I have managed and help grow other coaches in the practice and was heavily involved in sales engineering, and managing the P&L.",
 		"tags": [
 			"Agile",
 			"Coach",
 			"Trainer",
 			"Scrum",
 			"Kanban",
-			"Sales"
+			"Sales",
+			"DevOps"
 		],
 		"projects": [
 			{
@@ -190,7 +191,7 @@
 		"image": "placeholder.jpg",
 		"startDate": "2012-01-01",
 		"endDate": "2013-09-01",
-		"description": "While at Cornerstone I worked as a Software Develover and TEam Lead. I mentored individuals on the team in S.O.L.D. principles and modern development practice. I helped architect solutions for customers as well.",
+		"description": "At Cornerstone I worked as a Software Developer and Team Lead. I mentored individuals on the team in S.O.L.D. principles and modern development practice.  I helped organizations implement Scrum along with DevOps principles and practices while on the development team.",
 		"tags": [
 			"ASP.NET",
 			"ASP.NET MVC",
@@ -249,5 +250,50 @@
 				]
 			}
 		]
+	},
+	{
+		"company": "WenSoft",
+		"companyUrl": "http://www.key2act.com/",
+		"title": "Software Developer",
+		"image": "placeholder.jpg",
+		"startDate": "2007-10-01",
+		"endDate": "2010-10-01",
+		"description": "At WennSoft I was introduced to Scrum while  working on a high performing team.  My team was responsible for  rewriting their current product with modern technology.  At the time, traditional waterfall methodology would not work so we  introduced Scrum into the organization and piloted it on our team which later helped roll it out to the rest of the organization. ",
+		"tags": [
+			"ASP.NET",
+			"ASP.NET MVC",
+			"C#",
+			"CSS",
+			"HTML",
+			"JavaScript",
+			"jQuery",
+			"Microsoft SQL Server",
+			"Team Foundation Server",
+			"WCF",
+			"WPF"		
+		],
+		"projects": []
+	},
+	{
+		"company": "Hallmark Building Supplies",
+		"companyUrl": "http://www.hllmark.com/",
+		"title": "Web Developer & Network Administrator",
+		"image": "placeholder.jpg",
+		"startDate": "2005-06-01",
+		"endDate": "2007-10-01",
+		"description": "At Hallmark Building Supplies  I was tasked with daily help desk support, along with rebuilding their website.  I also maintained and managed their network along with their servers.",
+		"tags": [
+			"ASP.NET",
+			"C#",
+			"CSS",
+			"HTML",
+			"JavaScript",
+			"jQuery",
+			"Microsoft SQL Server",
+			"Windows Server",
+			"Active Directory",
+			"Nortel Phone Systems"
+		],
+		"projects": []
 	}
 ]

@@ -16,7 +16,7 @@ permalink: /resume/
 <div class="row">
     <div class="col-md-10 col-md-offset-2">
         <p>
-            I enjoy helping organizations continuously improve, by helping them build an environment where they can collaborate and work together to solve problems.  As a trainer and a coach in Agile, I help coach, mentor, teach, facilitate, and a change agent both within the team and they organization.
+            I enjoy helping organizations continuously improve, by helping them build an environment where they can collaborate and work together to solve problems. As a trainer and a coach in Agile, I help mentor, teach, facilitate, and be a change agent both within the team and the organization.
         </p>
     </div>
 </div>
