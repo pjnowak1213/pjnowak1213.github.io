@@ -53,7 +53,7 @@
 				"image": "placeholder.jpg",
 				"startDate": "2016-02-01",
 				"endDate": "2016-06-01",
-				"description": "Coached and trained Husco's IT Department in visual there work through Kanban, stream lined there work intake process, and coached them through a continuous improvement mindset.",
+				"description": "Coached and trained Husco's IT department in visualizing their work through Kanban, stream lined their work intake process, and coached them through a continuous improvement mindset.",
 				"tags": [
 					"Agile",
 					"Coach",
@@ -68,7 +68,7 @@
 				"image": "placeholder.jpg",
 				"startDate": "2015-12-01",
 				"endDate": "2016-05-01",
-				"description": "I helped build the Continuous Delivery and Integration pipeline at Northwestern Mutual.  Helped Northwestern Mutual envision and engineer a pipeline that would support their wide variety of technologies. Part of this involved special customization to support the compliance needs of the organization, as well as the massive number of products.",
+				"description": "Helped build a Continuous Delivery and Integration pipeline at Northwestern Mutual.  Helped Northwestern Mutual envision and engineer a pipeline that would support their wide variety of technologies. Part of this involved special customization to support the compliance needs of the organization, as well as the massive number of products.",
 				"tags": [
 					"IBM UrbanCode",
 					"Team Foundation Server",
@@ -82,7 +82,7 @@
 				"image": "placeholder.jpg",
 				"startDate": "2015-10-01",
 				"endDate": "2016-04-01",
-				"description": "I coached and trained them in Kanban and Scrum to help them streamline there development process and visualize there work",
+				"description": "I coached and trained them in Kanban and Scrum to help them streamline there development process and visualize there work.  In doing so they were able to better meet their customers demainds.",
 				"tags": [
 					"Kanban",
 					"Coach",
@@ -97,7 +97,7 @@
 				"image": "placeholder.jpg",
 				"startDate": "2015-01-01",
 				"endDate": "2015-03-01",
-				"description": "I helped coach and build a Continuous Delivery and Integration pipeline.  Worked with both the developers and they network administrators at KeHE so that they could support the pipeline.  Trained the developers in modern development techniques that complement being in a Continues Delivery pipeline.",
+				"description": "I helped coach and build a Continuous Delivery and Integration pipeline.  Worked with both the developers and network administrators at KeHE while building the pipeline.  Trained the developers in modern development techniques that complement being in a Continues Delivery and Intergration pipeline.",
 				"tags": [
 					"Octopus Deploy",
 					"Proget Server",
@@ -111,7 +111,7 @@
 				"image": "placeholder.jpg",
 				"startDate": "2014-08-01",
 				"endDate": "2016-12-01",
-				"description": "I have helped and continue to help Northwestern Mutual through this process through teaching multiple different training courses surrounding agility and coaching teams, individuals, and their stakeholders through the changes that agility brings to the table. Through this agile coaching role, I have acted as a mentor, coach, trainer and a facilitator in order to demonstrate, educate, and help those I have been coaching take ownership of their work.",
+				"description": "Helped Northwestern Mutual through their Agile transformation process through teaching multiple different training courses surrounding agility and coaching teams, individuals, and their stakeholders through the changes that agility brings to the table. Through this agile coaching role, I have acted as a mentor, coach, trainer and a facilitator in order to demonstrate, educate, and help those I have been coaching take ownership of their work.",
 				"tags": [
 					"Coaching",
 					"Agile",
@@ -145,7 +145,7 @@
 				"image": "placeholder.jpg",
 				"startDate": "2014-03-01",
 				"endDate": "2014-09-01",
-				"description": "While at Direct Supply, I worked on developing an ecommerce solution.  My focus on this project was new feature development, mentoring team members, developing new ideas to outside the team, and modifying existing development practices to better suit the needs of the company.  I was instrumental in ensuring team members were using test driven development, continuous integration, and continuous delivery practices.",
+				"description": "While at Direct Supply, I worked on developing an ecommerce solution.  My focus on this project was new feature development, mentoring team members, spreading new ideas outside the team, and modifying existing development practices to better suit the needs of the company.  I was instrumental in ensuring team members were using test driven development, continuous integration, and continuous delivery practices.",
 				"tags": [
 					"AngularJS",
 					"ASP.NET MVC",
@@ -160,7 +160,8 @@
 					"Microsoft Visual Studio 2012",
 					"Selenium Browser Automation",
 					"Team Foundation Server",
-					"Unity"
+					"Unity",
+					"Octopus Deploy"
 				]
 			},
 			{
