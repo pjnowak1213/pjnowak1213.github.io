@@ -1,11 +1,29 @@
 [
 	{
+		"company": "Tricast",
+		"companyUrl": "https://www.tricast.com/",
+		"title": "Lead Software Engineer",
+		"image": "placeholder.jpg",
+		"startDate": "2017-10-01",
+		"endDate": "Present",
+		"description": "My work at Tricast has me leading an effort to modernize a legacy application.   During this time I have worked with both the business and developers to move the application to the cloud along with implementing modern software development tools into the application.",
+		"tags": [
+			"Microsoft SQL Server",
+			"Team Foundation Server",
+			"WCF",
+			"Team Lead",
+			"Architecture",
+			"DevOps"			
+		],
+		"projects": []
+	},
+	{
 		"company": "Centare",
 		"companyUrl": "http://www.centare.com",
-		"title": "Senior Agile Coach",
+		"title": "Senior Agile Coach & Manager",
 		"image": "placeholder.jpg",
 		"startDate": "2014-09-01",
-		"endDate": "Present",
+		"endDate": "2017-10-01",
 		"description": "My work at Centare has led me to many different roles and responsibilities from conducting agile training courses for both internal and external clients, improving courseware, designing new courseware, public speaking, facilitating meetings, and mentoring new coaches and trainers.   As an Agile coach I have helped organizations transform and implement Scrum and Kanban along with DevOps principles and practices.  Along with helping clients, I have managed and help grow other coaches in the practice and was heavily involved in sales engineering, and managing the P&L.",
 		"tags": [
 			"Agile",
