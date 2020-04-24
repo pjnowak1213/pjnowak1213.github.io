@@ -1,19 +1,23 @@
 [
 	{
-		"company": "Tricast",
-		"companyUrl": "https://www.tricast.com/",
-		"title": "Lead Software Engineer",
+		"company": "PillarRx Consulting, LLC",
+		"companyUrl": "https://www.PillarRx.com/",
+		"title": "Senior Director of Information Technologies & HIPPA Security Officer",
 		"image": "placeholder.jpg",
 		"startDate": "2017-10-01",
 		"endDate": "Present",
-		"description": "My work at Tricast has me leading an effort to modernize a legacy application.   During this time I have worked with both the business and developers to move the application to the cloud along with implementing modern software development tools into the application.",
+		"description": "At PillarRx, I lead the IT team which consists of eight employees.  Being part of the Leadership team, I am able to play a part in setting overall company direction.  I am responsible for budgeting the resources needed within IT and have three different teams that report to me across multiple locations.  I have  implemented a development process and team to build internal applications using Scrum and DevOps principles. I am leading the organization through HITRUST Certification, which includes creating and implementing policies and procedures that meet the HITRUST requirements. I also led a large effort to merge two companies from both an IT infrastructure and process improvement while migrating to Azure.",
 		"tags": [
+			"Leadership",
+			"Scrum",
+			"HITRUST"
 			"Microsoft SQL Server",
-			"Team Foundation Server",
+			"Azure DevOps",
 			"WCF",
 			"Team Lead",
 			"Architecture",
-			"DevOps"			
+			"DevOps",
+			"Azure"
 		],
 		"projects": []
 	},
