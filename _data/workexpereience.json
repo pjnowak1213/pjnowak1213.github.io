@@ -19,7 +19,23 @@
 			"DevOps",
 			"Azure"
 		],
-		"projects": []
+		"projects": [
+			{
+				"company": "HITRUST",
+				"companyUrl": "https://hitrustalliance.net/",
+				"title": "",
+				"image": "placeholder.jpg",
+				"startDate": "2019-01-01",
+				"endDate": "Present",
+				"description": "PillarRx’s goal is to get the HITRUST CSF certification in order to get ahead of the competition.  HITRUST is a comprehensive certification for organizations that creates or exchanges sensitive data.  During this certification process, we had to implement many security controls along with business processes to obtain the certification. I lead the effort throughout the organization, along with managing a third-party assessor.",
+				"tags": [
+					"HITRUST",
+					"Security",
+					"Incident Managment",
+					"HIPPA"
+				]
+			}
+		]
 	},
 	{
 		"company": "Centare",
