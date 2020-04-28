@@ -34,6 +34,23 @@
 					"Incident Managment",
 					"HIPPA"
 				]
+			},
+			{
+				"company": "Azure Migration",
+				"companyUrl": "https://www.azure.com",
+				"title": "",
+				"image": "placeholder.jpg",
+				"startDate": "2019-03-01",
+				"endDate": "Present",
+				"description": "PillarRx was running aging servers including three SQL servers and many application processing servers that needed to be replaced.  I lead a team of both internal and 3rd party contractors to evaluate options and create a migration plan.  We built an entire Azure cloud infrastructure which included virtual networks with VPN access, SQL Servers as infrastructure, and Azure Web Applications.  We utilized Azure Data Factory to extract, transform, and load data into SQL databases for further processing by our internal applications.",
+				"tags": [
+					"Azure",
+					"Virtual Network",
+					"Azure Active Directory",
+					"Azure Apps",
+					"Azure Security Center",
+					"Azure Backup"
+				]
 			}
 		]
 	},
