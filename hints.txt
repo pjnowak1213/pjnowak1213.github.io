@@ -1,3 +1,4 @@
 Run Local Server
 
+cd pjnowak1213.github.io
 bundle exec jekyll serve
